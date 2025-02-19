@@ -1,0 +1,9 @@
+read this file for description of different sim files
+
+sim1 - fixed energy, multiple bias, multiple primaries - ideal to test different params in a generic case
+
+sim2 - fixed energy and bias layers, multiple primaries - for testing hits vs primaries or other params vs primaries - includes repetitions
+
+sim3 - fixed energy, multiple bias and multiple primaries - for testing params vs primaries across different bias - includes repetitions
+
+
